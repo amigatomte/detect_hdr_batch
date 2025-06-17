@@ -1,2 +1,4 @@
 # detect_hdr_batch
-Script that tries to detect if a video file is SDR or HDR
+Python script that tries to detect if a video file is SDR or HDR
+Requires ffprobe, which is part of FFmpeg. 
+Created by ChatGPT, but useful and it works. :-)
